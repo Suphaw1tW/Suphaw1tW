@@ -4,6 +4,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thammarat-ai&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
+
+## 🚀 About Me
+
+> **I am a Computer Science student with a passion for technology, programming, and problem-solving. I enjoy learning new technologies, developing my programming skills, and exploring innovative ideas through software development.
 ## 🛠 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
