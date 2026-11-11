@@ -1,7 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm Computer Science Student.
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thammarat-ai&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
 <!--
-**Suphaw1tW/Suphaw1tW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**68021366-svg/68021366-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
